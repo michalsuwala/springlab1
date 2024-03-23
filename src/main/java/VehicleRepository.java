@@ -60,6 +60,17 @@ public class VehicleRepository implements IVehicleRepository{
         }
     }
 
+
+    @Override
+    public void addVehicle(Vehicle vehicle) {
+        vehicles.add(vehicle);
+    }
+
+    @Override
+    public void removeVehicle(int id) {
+        vehicles.removeIf(v -> v.id == id);
+    }
+
     @Override
     public List<Vehicle> getVehicles() {
         return vehicles;

@@ -1,0 +1,19 @@
+Toyota;Corolla;2018;250;false;1
+Honda;Civic;2019;260;false;2
+Ford;Fusion;2017;230;false;3
+Chevrolet;Malibu;2016;220;false;4
+Volkswagen;Jetta;2018;240;true;5
+Nissan;Altima;2019;270;false;6
+BMW;3 Series;2020;400;false;7
+Mercedes-Benz;C-Class;2018;420;false;8
+Audi;A4;2019;380;false;9
+Tesla;Model 3;2021;500;false;10
+Subaru;Impreza;2017;220;false;11
+Hyundai;Elantra;2018;230;false;12
+Mazda;Mazda3;2017;220;false;14
+Volvo;S60;2018;380;false;15
+Lexus;IS;2019;450;false;16
+Infiniti;Q50;2017;420;false;17
+Jaguar;XE;2018;500;false;18
+Lincoln;MKZ;2019;480;false;19
+Buick;Regal;2017;400;true;20
